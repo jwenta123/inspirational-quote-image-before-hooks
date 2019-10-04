@@ -1,0 +1,15 @@
+.img {
+	position: fixed;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	transform: scale(2.5);
+	filter: blur(8px);
+	height: 99%;
+	width: 99%;
+	left: auto;
+	right: auto;
+	z-index: 1;
+	background-size: inherit;
+	background-position: center;
+}

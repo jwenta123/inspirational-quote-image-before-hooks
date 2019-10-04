@@ -1,0 +1,19 @@
+.img {
+	z-index: 105;
+	display: flex;
+	position: fixed;
+	text-align: center;
+	height: 85vh;
+	width: 75vw;
+	justify-content: center;
+	vertical-align: middle;
+	margin-top: 5vh;
+	color: white;
+	margin-left: 12.5vw;
+	text-shadow: 0px 0px 20px black;
+	background-color: rgba(228, 228, 228, 0.5);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	border-radius: 50px;
+}
